@@ -1,0 +1,10 @@
+th,td{
+    text-align:right;
+    vertical-align:bottom;
+}
+table{
+    border-style: solid;
+}
+td:hover{
+    color:red;
+}

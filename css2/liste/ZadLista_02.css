@@ -1,0 +1,10 @@
+ol {
+    list-style-image: url("te.jpg");
+}
+ul{
+    list-style-position: outside;
+    color: azure;
+}
+li::marker {
+    color: aqua;
+}
